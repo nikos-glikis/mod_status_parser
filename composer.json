@@ -1,5 +1,5 @@
 {
-  "name": "nikosglikis/ModStatusParser",
+  "name": "nikosglikis/mod_status_parser",
   "description": "Parse mod_status html output page and get displayed information",
   "license": "MIT",
   "keywords": ["mod_status"],
