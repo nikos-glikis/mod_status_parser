@@ -2,6 +2,7 @@
   "name": "nikosglikis/mod_status_parser",
   "description": "Parse mod_status html output page and get displayed information",
   "license": "MIT",
+  "version": "1.0.1",
   "keywords": ["mod_status"],
   "authors": [
     {
