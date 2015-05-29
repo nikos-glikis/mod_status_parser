@@ -230,7 +230,7 @@ class ModStatusParser
 
     public function getModStatusOutput()
     {
-
+        return $this->modStatusOutput;
     }
 
     /**
