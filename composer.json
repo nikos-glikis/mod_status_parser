@@ -2,7 +2,7 @@
   "name": "nikosglikis/mod_status_parser",
   "description": "Parse mod_status html output page and get displayed information",
   "license": "GPL-3.0+",
-  "version": "1.0.1",
+  "version": "1.0.1-stable",
   "keywords": ["mod_status"],
   "authors": [
     {
