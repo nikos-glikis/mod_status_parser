@@ -10,14 +10,6 @@
       "email": "nikosglikis@gmail.com"
     }
   ],
-  "require": {
-    "php-imap/php-imap": "^2.0"
-  },
-  "require-dev": {},
-  "autoload": {
-    "psr-4": {
-      "nikosglikis\\ModStatusParser\\": "src"
-    }
-  },
+
   "minimum-stability": "stable"
 }
